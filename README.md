@@ -94,13 +94,3 @@ graph LR
 3. **Experiment:** Modify the code to see what breaks or how things behave differently.
 4. **Debug:** Fix errors to understand the core mechanics.
 5. **Understand:** Cement the concepts and move on to the next chapter.
-
-## 🛠️ How to Update Progress
-
-When a new chapter is completed, a new `chapterX.py` file is added.
-To update the progress bar in this README, simply run the automation script:
-
-```bash
-python scripts/update_progress.py
-```
-This script will scan the repository, calculate the completion percentage, and automatically update the **Learning Progress** section above!
