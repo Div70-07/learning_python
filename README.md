@@ -12,9 +12,9 @@ A hands-on repository documenting my journey of learning Python from scratch. Th
 <!-- PROGRESS:START -->
 **Python Learning Progress**
 
-`███░░░░░░░░░░░░░░░░░ 18%`
+`█████░░░░░░░░░░░░░░░ 29%`
 
-*5 / 28 chapters completed*
+*8 / 28 chapters completed*
 <!-- PROGRESS:END -->
 
 *Progress is automatically tracked using `scripts/update_progress.py`, which detects completed chapters based on the presence of `chapterX.py` files.*
@@ -31,9 +31,9 @@ The roadmap is based on the comprehensive notes provided in `learning_python_not
 - [x] **Chapter 05:** Input, Output & Operators
 
 ### 🔹 Control Flow
-- [ ] **Chapter 06:** Conditional Statements
-- [ ] **Chapter 07:** Loops
-- [ ] **Chapter 08:** For Loop
+- [x] **Chapter 06:** Conditional Statements
+- [x] **Chapter 07:** Loops
+- [x] **Chapter 08:** For Loop
 - [ ] **Chapter 09:** While Loop
 
 ### 🔹 Functions & Data Structures
