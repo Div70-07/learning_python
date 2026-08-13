@@ -30,20 +30,4 @@ print(type(str))
 c = None    
 print(type(c))
 
-#7. set - A set is a collection which is unordered and unindexed. No duplicate members.
-myset = {"apple", "banana", "cherry"}  
-print(type(myset))
-
-#8. list - A list is a collection which is ordered and changeable. Allows duplicate members.
-mylist = ["apple", "banana", "cherry"]  
-print(type(mylist))
-
-#9. tuple - A tuple is a collection which is ordered and unchangeable. Allows duplicate members.
-mytuple = ("apple", "banana", "cherry")
-print(type(mytuple))
-
-#10. dict - A dictionary is a collection which is ordered, changeable and indexed. No duplicate members.
-mydict = {"brand": "Ford", "model": "Mustang", "year": 1964}  
-print(type(mydict))
-print(mydict)
 
