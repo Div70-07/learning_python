@@ -1,7 +1,6 @@
-"""***************DATA STRUCTURES***************"""
-
-
 """1. list - A list is a collection which is ordered and changeable. Allows duplicate members."""
+
+
 basket = ["apple", "banana", "cherry"]  
 print(type(basket))
 
@@ -35,7 +34,11 @@ for i in a: #Traversing on values
     print(i)
 for i in range(0, len(a)): #Traversing on indices
     print(f"Index {i}: {a[i]}")
-print("*******QUESTIONS**********")
+
+
+
+
+print("**********QUESTIONS**********")
 print("Q1. Print all positive and negative elements seperately.")
 list = [3, -1, 4, -5, 9]
 pos =[]
@@ -97,34 +100,3 @@ if count == 0:
 else:
     print("List is not sorted")
 print("")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"""
-#2. set - A set is a collection which is unordered and unindexed. No duplicate members.
-myset = {"apple", "banana", "cherry"}  
-print(type(myset))
-
-
-#3. tuple - A tuple is a collection which is ordered and unchangeable. Allows duplicate members.
-mytuple = ("apple", "banana", "cherry")
-print(type(mytuple))
-
-#4. dict - A dictionary is a collection which is ordered, changeable and indexed. No duplicate members.
-mydict = {"brand": "Ford", "model": "Mustang", "year": 1964}  
-print(type(mydict))
-print(mydict)
-
-"""
