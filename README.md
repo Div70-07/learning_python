@@ -12,9 +12,9 @@ A hands-on repository documenting my journey of learning Python from scratch. Th
 <!-- PROGRESS:START -->
 **Python Learning Progress**
 
-`████████████░░░░░░░░ 61%`
+`█████████████████░░░ 86%`
 
-*17 / 28 chapters completed*
+*24 / 28 chapters completed*
 <!-- PROGRESS:END -->
 
 *Progress is automatically tracked using `scripts/update_progress.py`, which detects completed chapters based on the presence of `chapterX.py` files.*
@@ -49,13 +49,13 @@ The roadmap is based on the comprehensive notes provided in `learning_python_not
 - [x] **Chapter 17:** File Handling
 
 ### 🔹 Object-Oriented Programming (OOP)
-- [ ] **Chapter 18:** OOP in Python
-- [ ] **Chapter 19:** Classes
-- [ ] **Chapter 20:** Objects
-- [ ] **Chapter 21:** Constructor
-- [ ] **Chapter 22:** Attributes & Methods
-- [ ] **Chapter 23:** Inheritance
-- [ ] **Chapter 24:** Polymorphism
+- [x] **Chapter 18:** OOP in Python
+- [x] **Chapter 19:** Classes
+- [x] **Chapter 20:** Objects
+- [x] **Chapter 21:** Constructor
+- [x] **Chapter 22:** Attributes & Methods
+- [x] **Chapter 23:** Inheritance
+- [x] **Chapter 24:** Polymorphism
 - [ ] **Chapter 25:** Encapsulation
 - [ ] **Chapter 26:** Abstraction
 - [ ] **Chapter 27:** Dunder Methods
