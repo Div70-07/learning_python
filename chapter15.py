@@ -156,7 +156,7 @@ for i in list:
         dic[i]=1
 print(dic)
 
-print("Q4. Combine two dicts, ading values for common keys.")
+print("Q4. Combine two dicts, adding values for common keys.")
 d1={"a":1,"b":3,"d":5}
 d2={"b":2,"d":4,"e":6}
 
